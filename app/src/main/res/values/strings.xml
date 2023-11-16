@@ -1,0 +1,21 @@
+
+<resources>
+    <string name="app_name">Snake</string>
+    <string name="gridLengthMinMsg">\'Length of Grid\' must be at least 10</string>
+    <string name="snakeLengthMinMsg">\'Starting Snake Length\' must be at least 3</string>
+    <string name="snakeSpeedMinMsg">\'Snake Speed (FPS)\' must be at least 1</string>
+    <string name="gridLengthMaxMsg">\'Length of Grid\' must be 100 or less</string>
+    <string name="snakeLengthMaxMsg">\'Starting Snake Length\' must be %1$d or less</string>
+    <string name="snakeSpeedMaxMsg">\'Snake Speed (FPS)\' must be 50 or less</string>
+    <string name="wrongFormatMsg">Text fields must be a positive integer</string>
+
+    <string name="settings_label">SETTINGS</string>
+    <string name="starting_snake_length_label">Starting Snake Length</string>
+    <string name="snake_speed_fps_label">Snake Speed (FPS)</string>
+    <string name="length_of_grid_label">Length of Grid</string>
+    <string name="hide_pause_button_label">Hide Pause Button</string>
+    <string name="start_game_on_pause_label">Start Game on Pause</string>
+    <string name="show_grid_squares_label">Show Grid Squares</string>
+    <string name="save_label">Save</string>
+    <string name="restore_default_settings_label">restore default settings</string>
+</resources>

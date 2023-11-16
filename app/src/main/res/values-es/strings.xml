@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Serpiente</string>
+    <string name="gridLengthMinMsg">\'Longitud de la cuadrícula\' debe ser de al menos 10</string>
+    <string name="snakeLengthMinMsg">La \'longitud inicial de la serpiente\' debe ser de al menos 3</string>
+    <string name="snakeSpeedMinMsg">La \'Velocidad de la serpiente (FPS)\' debe ser de al menos 1</string>
+    <string name="gridLengthMaxMsg">La \'longitud de la cuadrícula\' debe ser de 100 o menos</string>
+    <string name="snakeLengthMaxMsg">La \'longitud inicial de la serpiente\' debe ser %1$d o menos</string>
+    <string name="snakeSpeedMaxMsg">La \'Velocidad de la serpiente (FPS)\' debe ser de 50 o menos</string>
+    <string name="wrongFormatMsg">Los campos de texto deben ser un número entero positivo.</string>
+
+    <string name="settings_label">AJUSTES</string>
+    <string name="starting_snake_length_label">Longitud inicial de la serpiente</string>
+    <string name="snake_speed_fps_label">Velocidad de serpiente (FPS)</string>
+    <string name="length_of_grid_label">Longitud de cuadrícula</string>
+    <string name="hide_pause_button_label">Ocultar botón de pausa</string>
+    <string name="start_game_on_pause_label">Iniciar juego en pausa</string>
+    <string name="show_grid_squares_label">Mostrar cuadrados de cuadrícula</string>
+    <string name="save_label">Salvar</string>
+    <string name="restore_default_settings_label">restaurar la configuración predeterminada</string>
+</resources>
